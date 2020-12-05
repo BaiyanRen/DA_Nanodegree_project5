@@ -9,7 +9,8 @@
 
 ## Summary of Findings
 
->  The salary increases with coding experience. There is difference between the salary of respondents with the same coding experience in US and India.
+>  The salary increases with coding experience and education levels.
+>  With the same coding experience, higher education level is possible to have higher salary.
 
 
 ## Key Insights for Presentation
